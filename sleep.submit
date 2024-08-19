@@ -1,0 +1,7 @@
+universe = vanilla
+executable = /bin/sleep
+arguments = 60
+output = sleep.out
+error = sleep.err
+log = sleep.log
+queue
